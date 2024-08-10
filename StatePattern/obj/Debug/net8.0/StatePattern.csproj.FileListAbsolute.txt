@@ -1,0 +1,14 @@
+C:\Users\sanskruti.itkar\source\repos\StatePattern\obj\Debug\net8.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanskruti.itkar\source\repos\StatePattern\obj\Debug\net8.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\sanskruti.itkar\source\repos\StatePattern\obj\Debug\net8.0\StatePattern.AssemblyInfo.cs
+C:\Users\sanskruti.itkar\source\repos\StatePattern\obj\Debug\net8.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\StatePattern\bin\Debug\net8.0\StatePattern.exe
+C:\Users\sanskruti.itkar\source\repos\StatePattern\bin\Debug\net8.0\StatePattern.deps.json
+C:\Users\sanskruti.itkar\source\repos\StatePattern\bin\Debug\net8.0\StatePattern.runtimeconfig.json
+C:\Users\sanskruti.itkar\source\repos\StatePattern\bin\Debug\net8.0\StatePattern.dll
+C:\Users\sanskruti.itkar\source\repos\StatePattern\bin\Debug\net8.0\StatePattern.pdb
+C:\Users\sanskruti.itkar\source\repos\StatePattern\obj\Debug\net8.0\StatePattern.dll
+C:\Users\sanskruti.itkar\source\repos\StatePattern\obj\Debug\net8.0\refint\StatePattern.dll
+C:\Users\sanskruti.itkar\source\repos\StatePattern\obj\Debug\net8.0\StatePattern.pdb
+C:\Users\sanskruti.itkar\source\repos\StatePattern\obj\Debug\net8.0\StatePattern.genruntimeconfig.cache
+C:\Users\sanskruti.itkar\source\repos\StatePattern\obj\Debug\net8.0\ref\StatePattern.dll
